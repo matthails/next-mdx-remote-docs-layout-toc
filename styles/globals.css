@@ -41,7 +41,19 @@
 
 @layer utilities {
   h1 {
+    font-size: xx-large
+  }
+}
+
+@layer utilities {
+  h2 {
     font-size: x-large
+  }
+}
+
+@layer utilities {
+  h3 {
+    font-size: large
   }
 }
 
